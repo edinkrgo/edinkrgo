@@ -2,11 +2,11 @@
 <h3 align="center">A developer from Bosnia and Herzegovina</h3>
 <hr style="border-top: 3px double #333;">
 
-<h3 align="center">🔭 I’m currently working on ...</h3>
-<h3 align="center">🌱 I’m currently learning ...</h3>
-<h3 align="center">👯 I’m looking to collaborate on ...</h3>
-<h3 align="center">🤔 I’m looking for help with ...</h3>
-<h3 align="center">💬 Ask me about ...</h3>
+<h3 align="center">🚀 At the moment, I'm diving deep into ...</h3>
+<h3 align="center">📚 Currently expanding my knowledge on ...</h3>
+<h3 align="center">🤝 I’d love to team up on ...</h3>
+<h3 align="center">🧠 I could use some guidance with ...</h3>
+<h3 align="center">💬 Let’s chat about ...</h3>
 
 <hr style="border-top: 3px double #333;">
 
