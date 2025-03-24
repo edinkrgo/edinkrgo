@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/edin krgo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edin krgo" height="30" width="70" />
   </a>
-  <a href="https://www.leetcode.com/edinkrgogit" target="blank">
+  <a href="https://www.leetcode.com/edinkrgo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edinkrgogit" height="30" width="70" />
   </a>
 </p>
